@@ -10,3 +10,4 @@ Python | emulating_countif_functionality_in_python.ipynb | emulating Excel's cou
 Python | emulating_bining_functionality_in_python.ipynb | binning dataframe in python 
 Python | load_database_values_and_passwords_as_environment_variables.ipynb | while doing a project, load confidential login details as environment variables and dynamically access files by finding the root project directory. this is achieved by creating a project local environment file
 Python | Test_logging_in_python.py | implementation of logging in python using dynamic dot-env
+Python | execute_sqlscript_sqlite3.py | Runs SQL scripts against the sqlite database of your choice but reads no values back. You can use it for create, insert, update and delete statements
